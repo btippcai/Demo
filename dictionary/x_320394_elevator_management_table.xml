@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="Elevator Management Table" max_length="40" name="x_320394_elevator_management_table" type="collection">
+        <element choice="3" label="Elevator Goes Up" max_length="40" name="elevator_goes_up" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="no"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+    </element>
+</database>

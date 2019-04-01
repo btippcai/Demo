@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="elevator_goes_up" label="Elevator Goes Up" language="en" table="x_320394_elevator_management_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>elevator_goes_up</element>
+            <help/>
+            <hint/>
+            <label>Elevator Goes Up</label>
+            <language>en</language>
+            <name>x_320394_elevator_management_table</name>
+            <plural>Elevator Goes Ups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>btippens</sys_created_by>
+            <sys_created_on>2019-04-01 16:45:01</sys_created_on>
+            <sys_id>fcaa326537e033009870435973990edc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Elevator Goes Up</sys_name>
+            <sys_package display_value="Elevator Management" source="x_320394_elevator">ca6a7eed376033009870435973990e27</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Elevator Management">ca6a7eed376033009870435973990e27</sys_scope>
+            <sys_update_name>sys_documentation_x_320394_elevator_management_table_elevator_goes_up_en</sys_update_name>
+            <sys_updated_by>btippens</sys_updated_by>
+            <sys_updated_on>2019-04-01 16:45:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
